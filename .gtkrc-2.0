@@ -1,0 +1,8 @@
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+#include "/usr/share/themes/Numix/gtk-2.0/gtkrc"
+
+#include "/home/ant0wn/.gtkrc.mine"
+
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+gtk-theme-name = "Numix"
+gtk-font-name = "Droid Sans 9"
